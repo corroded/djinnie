@@ -1,5 +1,9 @@
 <template>
-  <Card title="This is a card"/>
+  <section class="home-page">
+    <Card title="This is a card" />
+    <Card title="Another card" />
+    <Card title="The last card" />
+  </section>
 </template>
 
 <script>

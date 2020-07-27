@@ -18,4 +18,6 @@ export default Vue.extend({
 <style scoped lang="sass">
   .card-container
     padding: 3rem
+    border: 1px solid #333
+    margin: 1rem
 </style>
